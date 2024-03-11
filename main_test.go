@@ -7,5 +7,5 @@ import (
 )
 
 func TestRemoteRun(t *testing.T) {
-	main.Serverlogs()
+	main.ServerLogs()
 }
